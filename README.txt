@@ -18,4 +18,3 @@ In order to compile my program, you need to use the command ./chunk [options] -f
 
 The known limitations and errors is that the user cannot put a negative number for line count, word count, or character count, or else the program will print out a statement. In addition, the user cannot put less than 2 arguments or more than 9 arguments in the command line, or else the program will print out a statement.
 
-Link: https://youtu.be/ZkK077HwfnM
